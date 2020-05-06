@@ -10,3 +10,4 @@ import Foundation
 
 print("Hello World")
 
+print("Hello World 3 in team member B local server")
